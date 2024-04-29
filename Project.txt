@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to naresg IT</title>
+</head>
+<body>
+
+<h1>Naresh IT</h1>
+<p>Thank You for visit.</p>
+
+</body>
+</html>
